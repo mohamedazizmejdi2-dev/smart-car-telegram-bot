@@ -1,4 +1,4 @@
-# ESP32 Telegram Robot Car 🤖
+# ESP32 Telegram Robot Car 
 
 An ESP32-based robotic car controlled remotely through Telegram, featuring ultrasonic obstacle detection and servo-assisted navigation.
 
@@ -8,14 +8,14 @@ This project implements a smart robotic car using an ESP32 microcontroller. The 
 
 ## Features
 
-* 📱 Remote control through Telegram
-* ⬆️ Forward and backward movement
-* ↪️ Left and right steering
-* 🛑 Manual stop command
-* 📡 Ultrasonic distance measurement
-* 🤖 Automatic obstacle avoidance
-* 🔄 Servo-assisted ultrasonic sensor scanning
-* 📶 Wi-Fi connectivity
+*  Remote control through Telegram
+*  Forward and backward movement
+*  Left and right steering
+*  Manual stop command
+*  Ultrasonic distance measurement
+*  Automatic obstacle avoidance
+*  Servo-assisted ultrasonic sensor scanning
+*  Wi-Fi connectivity
 
 ## Hardware Components
 
